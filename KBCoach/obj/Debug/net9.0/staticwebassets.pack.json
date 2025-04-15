@@ -1,0 +1,373 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/obj/Debug/net9.0/scopedcss/projectbundle/KBCoach.bundle.scp.css",
+      "PackagePath": "staticwebassets/KBCoach.n2bjka7y5n.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/apple-touch-icon.png",
+      "PackagePath": "staticwebassets/apple-touch-icon.png"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/css/argon-dashboard.css",
+      "PackagePath": "staticwebassets/css/argon-dashboard.css"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/css/argon-dashboard.css.map",
+      "PackagePath": "staticwebassets/css/argon-dashboard.css.map"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/css/argon-dashboard.min.css",
+      "PackagePath": "staticwebassets/css/argon-dashboard.min.css"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/css/nucleo-icons.css",
+      "PackagePath": "staticwebassets/css/nucleo-icons.css"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/css/nucleo-svg.css",
+      "PackagePath": "staticwebassets/css/nucleo-svg.css"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/fonts/nucleo-icons.eot",
+      "PackagePath": "staticwebassets/fonts/nucleo-icons.eot"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/fonts/nucleo-icons.svg",
+      "PackagePath": "staticwebassets/fonts/nucleo-icons.svg"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/fonts/nucleo-icons.ttf",
+      "PackagePath": "staticwebassets/fonts/nucleo-icons.ttf"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/fonts/nucleo-icons.woff",
+      "PackagePath": "staticwebassets/fonts/nucleo-icons.woff"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/fonts/nucleo-icons.woff2",
+      "PackagePath": "staticwebassets/fonts/nucleo-icons.woff2"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/fonts/nucleo.eot",
+      "PackagePath": "staticwebassets/fonts/nucleo.eot"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/fonts/nucleo.ttf",
+      "PackagePath": "staticwebassets/fonts/nucleo.ttf"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/fonts/nucleo.woff",
+      "PackagePath": "staticwebassets/fonts/nucleo.woff"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/fonts/nucleo.woff2",
+      "PackagePath": "staticwebassets/fonts/nucleo.woff2"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/img/logo.jpg",
+      "PackagePath": "staticwebassets/img/logo.jpg"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/img/phone.png",
+      "PackagePath": "staticwebassets/img/phone.png"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/img/zalo.png",
+      "PackagePath": "staticwebassets/img/zalo.png"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/js/argon-dashboard.js",
+      "PackagePath": "staticwebassets/js/argon-dashboard.js"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/js/argon-dashboard.js.map",
+      "PackagePath": "staticwebassets/js/argon-dashboard.js.map"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/js/argon-dashboard.min.js",
+      "PackagePath": "staticwebassets/js/argon-dashboard.min.js"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/js/plugins/bootstrap-notify.js",
+      "PackagePath": "staticwebassets/js/plugins/bootstrap-notify.js"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/js/plugins/perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets/js/plugins/perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/js/plugins/smooth-scrollbar.min.js",
+      "PackagePath": "staticwebassets/js/plugins/smooth-scrollbar.min.js"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/lib/jquery/dist/jquery.slim.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.slim.js"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/lib/jquery/dist/jquery.slim.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.slim.min.js"
+    },
+    {
+      "Id": "/Users/tvo/RiderProjects/KBCoach/KBCoach/wwwroot/lib/jquery/dist/jquery.slim.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.slim.min.map"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.KBCoach.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.KBCoach.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.build.KBCoach.props",
+      "PackagePath": "build\\KBCoach.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.KBCoach.props",
+      "PackagePath": "buildMultiTargeting\\KBCoach.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.KBCoach.props",
+      "PackagePath": "buildTransitive\\KBCoach.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
